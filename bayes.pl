@@ -1,3 +1,4 @@
+%Naive Bayes
 bayes(X,C) :-
     probs(X,W),
     max(W,C/_).
