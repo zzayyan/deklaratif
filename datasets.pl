@@ -13,7 +13,7 @@ prediction(10,meninggal,[anemia=no,diabetes=yes]).
 variables([class, anemia, diabetes]).
 /* Values for variables                                    */
 values(anemia,[yes,no]).
-values(diabetes,[yes,no]).
+values(diabetes,[yes,no ]).
 values(class,[hidup,meninggal]).
 
 
