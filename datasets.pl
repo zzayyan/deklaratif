@@ -12,7 +12,7 @@ prediction(10,meninggal,[anemia=no,diabetes=yes]).
 /* List of variables                                        */
 variables([class, anemia, diabetes]).
 /* Values for variables                                    */
-values(anemia,[yes,no]). #zayyan
+values(anemia,[yes,no]). #zayyan05
 values(diabetes,[yes,no]).
 values(class,[hidup,meninggal]).
 
